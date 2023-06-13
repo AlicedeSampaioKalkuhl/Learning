@@ -1,2 +1,2 @@
 # Learning
-Public Study Notes
+These are my public study notes. Read at own risk. 
