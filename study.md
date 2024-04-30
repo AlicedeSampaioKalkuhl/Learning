@@ -7,10 +7,14 @@
 | |<https://stackoverflow.com/questions/6556522/authentication-versus-authorization>|
 | |<https://www.cloudflare.com/learning/access-management/what-is-access-control/>|
 | |<https://www.cloudflare.com/learning/access-management/what-is-access-control>|
+|Bayesian Statistics|<https://www.coursera.org/specializations/bayesian-statistics>|
 |biomatr |<https://cran.r-project.org/web/packages/biomartr/vignettes/Sequence_Retrieval.html>|
 |blender |<https://www.youtube.com/watch?v=hTL6AKR8YDs/list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=4>|
 |butterfly effect| |
 |C++|<https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/>|
+| |<https://github.com/tjmckinley/SimBIID>|
+| |<https://www.youtube.com/watch?v=ZzaPdXTrSb8>|
+| |<https://www.youtube.com/watch?v=8jLOx1hD3_o>|
 |ci/cd|<https://medium.com/@nanduribalajee/what-is-ci-cd-pipeline-e2f25db99bbe>|
 | |<https://medium.com/better-programming/github-actions-the-what-why-and-how-3868d5a86292>|
 | |<https://medium.com/intelligentmachines/github-actions-basics-40a4d9b417f8>|
@@ -31,6 +35,8 @@
 |colourmap|<https://www.fabiocrameri.ch/colourmaps/>|
 |CS|<https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming>|
 | |<https://www.youtube.com/watch?v=zDNaUi2cjv4&list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3>|
+| |<https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc>|
+|CS50|<https://cs50.harvard.edu/x/2024/>|
 |CSS|<https://learn.microsoft.com/en-us/training/paths/build-web-pages-html-css-for-beginners/>|
 |decipher |<https://bioconductor.github.io/BiocWorkshops/working-with-genomic-data-in-r-with-the-decipher-package.html> | 
 |dinosaur palaeontology |  | 
